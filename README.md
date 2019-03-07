@@ -21,7 +21,6 @@ It follows the [JAMstack architecture](https://jamstack.org) by using Git as a s
 - Separate components for everything
 - Netlify deploy configuration
 - Perfect score on Lighthouse for SEO, Accessibility and Performance (wip:PWA)
-- ..and more
 
 ## Prerequisites
 
